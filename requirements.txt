@@ -1,0 +1,6 @@
+streamlit==1.35.0
+pandas==2.2.2
+sqlite3  # Built-in, no need to install separately
+hashlib  # Built-in, no need to install separately
+datetime  # Built-in, no need to install separately
+streamlit-option-menu==0.3.6
