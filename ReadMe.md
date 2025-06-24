@@ -33,5 +33,5 @@ A role-based Smart Job Portal built using Python, Streamlit, and SQLite. This pl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-job-portal.git
+   git clone https://github.com/deepak27907/smart-job-portal.git
    cd smart-job-portal
