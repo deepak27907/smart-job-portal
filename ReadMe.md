@@ -27,11 +27,7 @@ A role-based Smart Job Portal built using Python, Streamlit, and SQLite. This pl
 
 ---
 
-## Screenshots
 
-*(Add relevant screenshots here: login page, employer dashboard, job search results, etc.)*
-
----
 
 ## How to Run Locally
 
